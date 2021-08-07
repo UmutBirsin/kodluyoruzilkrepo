@@ -7,6 +7,7 @@ Oncelikle projeyi klonlayin
 
 ## Usage
 Projeyi cloneladiktan sonra Visual Studio Code programini aciniz.
+
 Linux icin :
 ```cd kodluyoruzilkrepo``` 
 ```code.```
